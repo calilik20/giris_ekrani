@@ -3,7 +3,7 @@ Kullanıcı Giriş Programı
 *******************************
 """)
 
-sys_kullanici_adi= "zafomastik"
+sys_kullanici_adi= "calilik20"
 sys_parola= "12345"
 giris_hakki= 3
 
